@@ -1,2 +1,2 @@
-# MapReduceApriori
+# MapReduce Apriori
 MapReduce Apriori Algorithm
